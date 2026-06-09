@@ -67,7 +67,7 @@ Ingests logs from Windows Event Logs, Sysmon, Linux Syslog, Auditd, Suricata, Ap
 ### File Integrity Monitoring (FIM)
 Monitors file creation, modification, deletion, and hash changes in real time using `syscheck` with `report_changes="yes"`.
 
-![FIM Alert](screenshots/fim-alert.png)
+![FIM Alert](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/14545c9daeb5969bc58f79aa30540b947e7a3b1c/Ex/FIM.png)
 
 ### Threat Intelligence Enrichment
 Automated IOC lookups against VirusTotal, AbuseIPDB, and MISP. Alerts are enriched with reputation data before reaching the analyst.
