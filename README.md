@@ -38,7 +38,7 @@ Delta Radar is an enterprise SIEM platform that centralizes security telemetry f
 | Endpoint Monitoring | Wazuh Agents (Windows & Linux) |
 | Remote Access | SSH |
 
-![VPS Terminal](screenshots/vps-terminal.png)
+![VPS Terminal](VPSTerminal.png)
 
 ---
 
