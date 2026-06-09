@@ -172,4 +172,4 @@ delta-radar-enterprise-siem/
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/9e5a8ef71564526ef7daad98bcd4b566c5d0d3b6/LICENSE)for details.
