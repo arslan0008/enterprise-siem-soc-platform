@@ -15,7 +15,7 @@ Enterprise-grade SIEM and SOC platform built using Wazuh for centralized securit
 
 ---
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
