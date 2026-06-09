@@ -72,7 +72,7 @@ Monitors file creation, modification, deletion, and hash changes in real time us
 ### Threat Intelligence Enrichment
 Automated IOC lookups against VirusTotal, AbuseIPDB, and MISP. Alerts are enriched with reputation data before reaching the analyst.
 
-![Threat Intelligence](screenshots/threat-intelligence.png)
+![Threat Intelligence](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/ed036a7e9596e580a13423c7749fabf47b0c17da/Ex/Threat%20Hunting.png)
 
 ### Detection Engineering
 Custom XML rules and decoders with MITRE ATT&CK mapping. Correlation rules cover brute force, privilege escalation, persistence, and lateral movement.
