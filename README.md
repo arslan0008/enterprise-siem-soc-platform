@@ -88,7 +88,7 @@ CIS benchmark results via SCA. Mapped to PCI DSS, HIPAA, GDPR, NIST, and CIS fra
 ### Vulnerability Detection
 Agent-based CVE scanning with severity classification and remediation guidance.
 
-![Vulnerabilities](screenshots/vulnerability.png)
+![Vulnerabilities](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/3f768697af564da16fbcbc5ee828b39b6393a3fe/Ex/Vulnerability%20Detection.png)
 
 ---
 
