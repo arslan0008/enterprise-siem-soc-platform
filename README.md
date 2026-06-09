@@ -112,16 +112,14 @@ Agent-based CVE scanning with severity classification and remediation guidance.
 ## Dashboards
 
 ### Security Events
-![Security Events](screenshots/dashboard.png)
+![Security Events](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/c7527f3fe98bb38fc916c544404869f80a107e80/Ex/Security%20Events.png)
 
 ### MITRE ATT&CK
-![MITRE](screenshots/mitre.png)
+![MITRE](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/c7527f3fe98bb38fc916c544404869f80a107e80/Ex/Mitre%20Attack.png)
 
 ### Connected Agents
-![Agents](screenshots/agents.png)
+![Agents](https://github.com/arslan0008/enterprise-siem-soc-platform/blob/c7527f3fe98bb38fc916c544404869f80a107e80/Ex/Agents.png)
 
-### Suricata IDS
-![Suricata](screenshots/suricata.png)
 
 ---
 
