@@ -56,7 +56,6 @@ Web Applications   ──┘                            │
                                        Wazuh Dashboard (SOC Analyst)
 ```
 
-![Architecture](architecture/architecture.png)
 
 ---
 
