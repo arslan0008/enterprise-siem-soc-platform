@@ -80,12 +80,10 @@ Custom XML rules and decoders with MITRE ATT&CK mapping. Correlation rules cover
 ### Automated Active Response
 Firewall-based IP blocking, account lockout, and custom scripts triggered by rule conditions — no manual intervention required for common attacks.
 
-![Active Response](screenshots/active-response.png)
 
 ### Compliance Monitoring
 CIS benchmark results via SCA. Mapped to PCI DSS, HIPAA, GDPR, NIST, and CIS frameworks.
 
-![SCA](screenshots/sca.png)
 
 ### Vulnerability Detection
 Agent-based CVE scanning with severity classification and remediation guidance.
